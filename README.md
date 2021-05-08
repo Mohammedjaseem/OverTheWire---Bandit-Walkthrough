@@ -7,7 +7,7 @@ for more : www.jaseem.tech
 
 Host: bandit.labs.overthewire.org
 
-Port: 22 ( As of January 2018 the port is now 2220 )
+Port: 2220 
 
 Bandit Level 0
 
